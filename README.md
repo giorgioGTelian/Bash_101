@@ -1,3 +1,3 @@
 # Bash_101
 a bash study script
-(following this guide)[https://www.shellscript.sh/]
+(https://www.shellscript.sh/)[following this guide]
